@@ -13,5 +13,5 @@ A simple program to disable all checks during the installation phase. Editing th
 - After copying it to the working directory with the program, click the "Bypass" button.
 - Wait 1-2 minutes, after which you can replace boot.wim in the Windows distribution!
 
-![image](https://user-images.githubusercontent.com/36841703/202152988-f88b194e-4ca5-444b-8ad7-536209219910.png)
+![image](https://user-images.githubusercontent.com/36841703/202154835-bf36a587-7b0b-4401-ab94-d714b68e4043.png)
 - All is ready! You can install the OS!
