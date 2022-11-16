@@ -4,8 +4,8 @@ A simple program to disable all checks during the installation phase. Editing th
 ![image](https://user-images.githubusercontent.com/36841703/202149977-37de40b0-4de9-4c5f-9691-b1ac8019e86f.png)
 
 # How to use
-- Get latest bypass file from https://github.com/sexynos300/windows11-bypass/releases
-- Get Win11 Patcher https://github.com/sexynos300/windows11-patcher/releases 
+- Get latest bypass file from: https://github.com/sexynos300/windows11-bypass/releases
+- Get Win11 Patcher: https://github.com/sexynos300/windows11-patcher/releases 
 - There should be 2 executable files in one folder! Run Win11 Patcher.
 - Choose the original boot.wim from the Windows distribution.
 
